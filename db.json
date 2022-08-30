@@ -1,74 +1,35 @@
 {
   "music": [
  {
-  "url": "https://data.chiasenhac.com/down2/2270/2/2269419-056e9c3e/128/Phao%20Hong%20H2O%20Remix_%20-%20Dat%20Long%20Vinh.mp3",
-  "bai hat": "Pháo Hồng",
-  "ca si": "Dat Long Vinh"
+  "id": 1,
+  "bai hat": "https://data.chiasenhac.com/down2/2270/1/2269172-d7e38518/128/Ben%20Tren%20Tang%20Lau%20Version%202_%20-%20Tang%20Duy.mp3",
+  "ca si": "aaa"
  },
  {
-  "url": "https://data.chiasenhac.com/down2/2270/2/2269894-a9156ddb/128/Dang%20Do%20Remix_%20-%20NAL_%20Orinn.mp3",
-  "bai hat": "Dang Dở",
-  "ca si": "NAL; Orinn"
+  "id": 2,
+  "bai hat": "b",
+  "ca si": "bbb"
  },
  {
-  "url": "https://data3.chiasenhac.com/downloads/1803/2/1802434-ea67b3c6/128/Chieu%20Hom%20Ay%20-%20Jaykii.mp3",
-  "bai hat": "Chiều Hôm Ấy",
-  "ca si": "Jaykii"
+  "id": 3,
+  "bai hat": "c",
+  "ca si": "ccc"
  },
  {
-  "url": "https://data3.chiasenhac.com/downloads/2139/2/2138662-e83f52bf/128/Buoc%20Qua%20Mua%20Co%20Don%20-%20Vu.mp3",
-  "bai hat": "Bước Qua Mùa Cô Đơn",
-  "ca si": "Vũ"
+  "id": 4,
+  "bai hat": "d",
+  "ca si": "ddd"
  },
  {
-  "url": "https://data.chiasenhac.com/down2/2179/2/2178291-6e126457/128/Di%20Ve%20Nha%20-%20Den_%20JustaTee.mp3",
-  "bai hat": "Đi Về Nhà",
-  "ca si": "Đen; JustaTee"
- },
-  {
-  "url": "https://data.chiasenhac.com/down2/2216/2/2215074-8d51eab0/128/Gieo%20Que%20-%20Hoang%20Thuy%20Linh_%20Den.mp3",
-  "bai hat": "Gieo Quẻ",
-  "ca si": "Hoàng Thuỳ Linh; Đen"
- },
-  {
-  "url": "https://data.chiasenhac.com/down2/2253/2/2252753-c381696e/128/Ai%20Muon%20Nghe%20Khong%20-%20Den.mp3",
-  "bai hat": "Ai Muốn Nghe Không",
-  "ca si": "Đen"
- },
-  {
-  "url": "https://data.chiasenhac.com/down2/2215/2/2214701-52396a51/128/Mang%20Tien%20Ve%20Cho%20Me%20-%20Den_%20Nguyen%20Thao.mp3",
-  "bai hat": "Mang Tien Ve Cho Me",
-  "ca si": "Đen; Nguyên Thảo"
- },
-  {
-  "url": "https://data.chiasenhac.com/down2/2179/2/2178590-1df95ef6/128/Bai%20Nay%20Chill%20Phet%20-%20Den_%20Min.mp3",
-  "bai hat": "Bài Này Chill Phết",
-  "ca si": "Đen; Min"
- },
-  {
-  "url": "https://data.chiasenhac.com/down2/2267/2/2266997-89b121a2/128/Ngoi%20Sao%20Co%20Don%20-%20Jack%20-%20J97.mp3",
-  "bai hat": "Ngôi Sao Cô Đơn",
-  "ca si": "Jack"
- },
-  {
-  "url": "https://data.chiasenhac.com/down2/2169/2/2168156-4608576a/128/Muon%20Roi%20Ma%20Sao%20Con%20-%20Son%20Tung%20M-TP.mp3",
-  "bai hat": "Muộn Rồi Sao Mà Còn",
-  "ca si": "Sơn Tùng MTP"
- },
-  {
-  "url": "https://data3.chiasenhac.com/downloads/2100/2/2099087-f4600a9e/128/Chay%20Ngay%20Di%20Onionn%20Remix_%20-%20Onionn_%20Son.mp3",
-  "bai hat": "Chạy Ngay Đi",
-  "ca si": "Sơn Tùng MTP"
+  "id": 5,
+  "bai hat": "e",
+  "ca si": "eee"
  },
  {
-  "url": "https://data3.chiasenhac.com/downloads/2115/2/2114563-f91b8ba8/128/Ngay%20Tho%20-%20Tang%20Duy%20Tan_%20Phong%20Max.mp3",
-  "bai hat": "Ngây Thơ",
-  "ca si": "Tăng Duy Tân; Phong Max"
- },
- {
-  "url": "https://data.chiasenhac.com/down2/2267/2/2266125/128/Ben%20Tren%20Tang%20Lau%20-%20Tang%20Duy%20Tan_%20Phong.mp3",
-  "bai hat": "Bên Trên Tầng Lầu",
-  "ca si": "Tăng Duy Tân; Phong Max"
- } 
+  "id": 6,
+  "bai hat": "f",
+  "ca si": "fff"
+ }
 ]
+
 }
