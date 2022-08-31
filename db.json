@@ -1,15 +1,17 @@
 {
-  "music": [
-    
-  "Yêu 5":{
+   "Yêu 5":[ 
+  {
   "ca si": "Rhymastic",
   "url": "https://docs.google.com/uc?id=1lFJbMl9CjeifU2yzeQInejq_niFOju2M"
- },
- "Nắng Ấm Xa Dần":{
+ }],
+  
+ "Nắng Ấm Xa Dần":[
+   {
   "ca si": "Sơn Tùng MTP",
   "url": "https://docs.google.com/uc?id=1y6WXgQUqKUSuCiPQqTUjzF6GC_r1g8ft"
- },
-  "Nơi Này Có Anh":{
+ }],
+  "Nơi Này Có Anh":[
+    {
   "ca si": "Sơn Tùng MTP",
   "url": "https://docs.google.com/uc?id=1kmXaXGrocE0eV2fDEzRb5iKmqyMxIBtX"
  }
